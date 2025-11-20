@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1046736351040",
+    "project_id": "smartdairyerp",
+    "storage_bucket": "smartdairyerp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046736351040:android:7b411b4693cc2001de14a5",
+        "android_client_info": {
+          "package_name": "com.example.smart_dairy_erp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF9iSPR1npfWII_OmVCAtUfZYRy_uarmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046736351040:android:f3f3484c7d36f114de14a5",
+        "android_client_info": {
+          "package_name": "com.saqib.smartdairyerp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF9iSPR1npfWII_OmVCAtUfZYRy_uarmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
